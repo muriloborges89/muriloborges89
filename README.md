@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukkaborges
+- 👋 Hi, I’m Murilo Borges
 - 👀 I’m interested in cnc, GRBL, 3DPrinters
 - 🌱 I’m currently learning GRBL
 - 💞️ I’m looking to collaborate on CAM SOFTWERE and POST PROCESSORS
